@@ -4,3 +4,5 @@ To make charts I used MPAndroid chart.
 Link : https://github.com/PhilJay/MPAndroidChart
 
 # Screenshots 
+
+![chart1](https://user-images.githubusercontent.com/32492255/54880106-389e3080-4e67-11e9-904e-fe6b4e1c3c19.png)
